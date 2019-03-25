@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: 813c765b52182f947aa4a9c7ea0ec362
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: goodchar:BlueChar_Head
+    100002: goodchar:BlueChar_Hips
+    100004: goodchar:BlueChar_LeftArm
+    100006: goodchar:BlueChar_LeftFoot
+    100008: goodchar:BlueChar_LeftForeArm
+    100010: goodchar:BlueChar_LeftHand
+    100012: goodchar:BlueChar_LeftHandRing1
+    100014: goodchar:BlueChar_LeftHandRing2
+    100016: goodchar:BlueChar_LeftHandThumb1
+    100018: goodchar:BlueChar_LeftHandThumb2
+    100020: goodchar:BlueChar_LeftLeg
+    100022: goodchar:BlueChar_LeftShoulder
+    100024: goodchar:BlueChar_LeftToeBase
+    100026: goodchar:BlueChar_LeftUpLeg
+    100028: goodchar:BlueChar_Neck
+    100030: goodchar:BlueChar_RightArm
+    100032: goodchar:BlueChar_RightFoot
+    100034: goodchar:BlueChar_RightForeArm
+    100036: goodchar:BlueChar_RightHand
+    100038: goodchar:BlueChar_RightHandRing1
+    100040: goodchar:BlueChar_RightHandRing2
+    100042: goodchar:BlueChar_RightHandThumb1
+    100044: goodchar:BlueChar_RightHandThumb2
+    100046: goodchar:BlueChar_RightLeg
+    100048: goodchar:BlueChar_RightShoulder
+    100050: goodchar:BlueChar_RightToeBase
+    100052: goodchar:BlueChar_RightUpLeg
+    100054: goodchar:BlueChar_Spine
+    100056: goodchar:BlueChar_Spine1
+    100058: goodchar:BlueChar_Spine2
+    100060: //RootNode
+    100062: goodchar:BlueChar_Reference
+    100064: goodchar:BlueChar_HipsTranslation
+    100066: goodchar:BlueChar_Ctrl_ChestEndEffector
+    100068: goodchar:BlueChar_Ctrl_ChestOriginEffector
+    100070: goodchar:BlueChar_Ctrl_Head
+    100072: goodchar:BlueChar_Ctrl_HeadEffector
+    100074: goodchar:BlueChar_Ctrl_Hips
+    100076: goodchar:BlueChar_Ctrl_HipsEffector
+    100078: goodchar:BlueChar_Ctrl_LeftAnkleEffector
+    100080: goodchar:BlueChar_Ctrl_LeftArm
+    100082: goodchar:BlueChar_Ctrl_LeftElbowEffector
+    100084: goodchar:BlueChar_Ctrl_LeftFoot
+    100086: goodchar:BlueChar_Ctrl_LeftFootEffector
+    100088: goodchar:BlueChar_Ctrl_LeftForeArm
+    100090: goodchar:BlueChar_Ctrl_LeftHand
+    100092: goodchar:BlueChar_Ctrl_LeftHandRing1
+    100094: goodchar:BlueChar_Ctrl_LeftHandRing2
+    100096: goodchar:BlueChar_Ctrl_LeftHandRingEffector
+    100098: goodchar:BlueChar_Ctrl_LeftHandThumb1
+    100100: goodchar:BlueChar_Ctrl_LeftHandThumb2
+    100102: goodchar:BlueChar_Ctrl_LeftHandThumbEffector
+    100104: goodchar:BlueChar_Ctrl_LeftHipEffector
+    100106: goodchar:BlueChar_Ctrl_LeftKneeEffector
+    100108: goodchar:BlueChar_Ctrl_LeftLeg
+    100110: goodchar:BlueChar_Ctrl_LeftShoulder
+    100112: goodchar:BlueChar_Ctrl_LeftShoulderEffector
+    100114: goodchar:BlueChar_Ctrl_LeftToeBase
+    100116: goodchar:BlueChar_Ctrl_LeftUpLeg
+    100118: goodchar:BlueChar_Ctrl_LeftWristEffector
+    100120: goodchar:BlueChar_Ctrl_Neck
+    100122: goodchar:BlueChar_Ctrl_Reference
+    100124: goodchar:BlueChar_Ctrl_RightAnkleEffector
+    100126: goodchar:BlueChar_Ctrl_RightArm
+    100128: goodchar:BlueChar_Ctrl_RightElbowEffector
+    100130: goodchar:BlueChar_Ctrl_RightFoot
+    100132: goodchar:BlueChar_Ctrl_RightFootEffector
+    100134: goodchar:BlueChar_Ctrl_RightForeArm
+    100136: goodchar:BlueChar_Ctrl_RightHand
+    100138: goodchar:BlueChar_Ctrl_RightHandRing1
+    100140: goodchar:BlueChar_Ctrl_RightHandRing2
+    100142: goodchar:BlueChar_Ctrl_RightHandRingEffector
+    100144: goodchar:BlueChar_Ctrl_RightHandThumb1
+    100146: goodchar:BlueChar_Ctrl_RightHandThumb2
+    100148: goodchar:BlueChar_Ctrl_RightHandThumbEffector
+    100150: goodchar:BlueChar_Ctrl_RightHipEffector
+    100152: goodchar:BlueChar_Ctrl_RightKneeEffector
+    100154: goodchar:BlueChar_Ctrl_RightLeg
+    100156: goodchar:BlueChar_Ctrl_RightShoulder
+    100158: goodchar:BlueChar_Ctrl_RightShoulderEffector
+    100160: goodchar:BlueChar_Ctrl_RightToeBase
+    100162: goodchar:BlueChar_Ctrl_RightUpLeg
+    100164: goodchar:BlueChar_Ctrl_RightWristEffector
+    100166: goodchar:BlueChar_Ctrl_Spine
+    100168: goodchar:BlueChar_Ctrl_Spine1
+    100170: goodchar:BlueChar_Ctrl_Spine2
+    100172: goodchar:BlueChar_RootBone
+    400000: goodchar:BlueChar_Head
+    400002: goodchar:BlueChar_Hips
+    400004: goodchar:BlueChar_LeftArm
+    400006: goodchar:BlueChar_LeftFoot
+    400008: goodchar:BlueChar_LeftForeArm
+    400010: goodchar:BlueChar_LeftHand
+    400012: goodchar:BlueChar_LeftHandRing1
+    400014: goodchar:BlueChar_LeftHandRing2
+    400016: goodchar:BlueChar_LeftHandThumb1
+    400018: goodchar:BlueChar_LeftHandThumb2
+    400020: goodchar:BlueChar_LeftLeg
+    400022: goodchar:BlueChar_LeftShoulder
+    400024: goodchar:BlueChar_LeftToeBase
+    400026: goodchar:BlueChar_LeftUpLeg
+    400028: goodchar:BlueChar_Neck
+    400030: goodchar:BlueChar_RightArm
+    400032: goodchar:BlueChar_RightFoot
+    400034: goodchar:BlueChar_RightForeArm
+    400036: goodchar:BlueChar_RightHand
+    400038: goodchar:BlueChar_RightHandRing1
+    400040: goodchar:BlueChar_RightHandRing2
+    400042: goodchar:BlueChar_RightHandThumb1
+    400044: goodchar:BlueChar_RightHandThumb2
+    400046: goodchar:BlueChar_RightLeg
+    400048: goodchar:BlueChar_RightShoulder
+    400050: goodchar:BlueChar_RightToeBase
+    400052: goodchar:BlueChar_RightUpLeg
+    400054: goodchar:BlueChar_Spine
+    400056: goodchar:BlueChar_Spine1
+    400058: goodchar:BlueChar_Spine2
+    400060: //RootNode
+    400062: goodchar:BlueChar_Reference
+    400064: goodchar:BlueChar_HipsTranslation
+    400066: goodchar:BlueChar_Ctrl_ChestEndEffector
+    400068: goodchar:BlueChar_Ctrl_ChestOriginEffector
+    400070: goodchar:BlueChar_Ctrl_Head
+    400072: goodchar:BlueChar_Ctrl_HeadEffector
+    400074: goodchar:BlueChar_Ctrl_Hips
+    400076: goodchar:BlueChar_Ctrl_HipsEffector
+    400078: goodchar:BlueChar_Ctrl_LeftAnkleEffector
+    400080: goodchar:BlueChar_Ctrl_LeftArm
+    400082: goodchar:BlueChar_Ctrl_LeftElbowEffector
+    400084: goodchar:BlueChar_Ctrl_LeftFoot
+    400086: goodchar:BlueChar_Ctrl_LeftFootEffector
+    400088: goodchar:BlueChar_Ctrl_LeftForeArm
+    400090: goodchar:BlueChar_Ctrl_LeftHand
+    400092: goodchar:BlueChar_Ctrl_LeftHandRing1
+    400094: goodchar:BlueChar_Ctrl_LeftHandRing2
+    400096: goodchar:BlueChar_Ctrl_LeftHandRingEffector
+    400098: goodchar:BlueChar_Ctrl_LeftHandThumb1
+    400100: goodchar:BlueChar_Ctrl_LeftHandThumb2
+    400102: goodchar:BlueChar_Ctrl_LeftHandThumbEffector
+    400104: goodchar:BlueChar_Ctrl_LeftHipEffector
+    400106: goodchar:BlueChar_Ctrl_LeftKneeEffector
+    400108: goodchar:BlueChar_Ctrl_LeftLeg
+    400110: goodchar:BlueChar_Ctrl_LeftShoulder
+    400112: goodchar:BlueChar_Ctrl_LeftShoulderEffector
+    400114: goodchar:BlueChar_Ctrl_LeftToeBase
+    400116: goodchar:BlueChar_Ctrl_LeftUpLeg
+    400118: goodchar:BlueChar_Ctrl_LeftWristEffector
+    400120: goodchar:BlueChar_Ctrl_Neck
+    400122: goodchar:BlueChar_Ctrl_Reference
+    400124: goodchar:BlueChar_Ctrl_RightAnkleEffector
+    400126: goodchar:BlueChar_Ctrl_RightArm
+    400128: goodchar:BlueChar_Ctrl_RightElbowEffector
+    400130: goodchar:BlueChar_Ctrl_RightFoot
+    400132: goodchar:BlueChar_Ctrl_RightFootEffector
+    400134: goodchar:BlueChar_Ctrl_RightForeArm
+    400136: goodchar:BlueChar_Ctrl_RightHand
+    400138: goodchar:BlueChar_Ctrl_RightHandRing1
+    400140: goodchar:BlueChar_Ctrl_RightHandRing2
+    400142: goodchar:BlueChar_Ctrl_RightHandRingEffector
+    400144: goodchar:BlueChar_Ctrl_RightHandThumb1
+    400146: goodchar:BlueChar_Ctrl_RightHandThumb2
+    400148: goodchar:BlueChar_Ctrl_RightHandThumbEffector
+    400150: goodchar:BlueChar_Ctrl_RightHipEffector
+    400152: goodchar:BlueChar_Ctrl_RightKneeEffector
+    400154: goodchar:BlueChar_Ctrl_RightLeg
+    400156: goodchar:BlueChar_Ctrl_RightShoulder
+    400158: goodchar:BlueChar_Ctrl_RightShoulderEffector
+    400160: goodchar:BlueChar_Ctrl_RightToeBase
+    400162: goodchar:BlueChar_Ctrl_RightUpLeg
+    400164: goodchar:BlueChar_Ctrl_RightWristEffector
+    400166: goodchar:BlueChar_Ctrl_Spine
+    400168: goodchar:BlueChar_Ctrl_Spine1
+    400170: goodchar:BlueChar_Ctrl_Spine2
+    400172: goodchar:BlueChar_RootBone
+    7400000: walk_root
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: goodchar:BlueChar_Reference/goodchar:BlueChar_RootBone
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk_root
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: goodchar:BlueChar_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goodchar:BlueChar_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: goodchar(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_Reference
+      parentName: goodchar(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RootBone
+      parentName: goodchar:BlueChar_Reference
+      position: {x: 1.3362925e-33, y: 0.8645364, z: 1.2036253e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_Hips
+      parentName: goodchar:BlueChar_RootBone
+      position: {x: -0, y: -0.20644546, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftUpLeg
+      parentName: goodchar:BlueChar_Hips
+      position: {x: -0.0770302, y: -0.054206464, z: 5.067887e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftLeg
+      parentName: goodchar:BlueChar_LeftUpLeg
+      position: {x: -8.881784e-18, y: -0.31202963, z: -9.247517e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftFoot
+      parentName: goodchar:BlueChar_LeftLeg
+      position: {x: 1.7763568e-17, y: -0.26509783, z: -7.856622e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftToeBase
+      parentName: goodchar:BlueChar_LeftFoot
+      position: {x: -0.00000007152557, y: -0.014477405, z: 0.11199828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightUpLeg
+      parentName: goodchar:BlueChar_Hips
+      position: {x: 0.0770302, y: -0.054206464, z: -2.9140392e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightLeg
+      parentName: goodchar:BlueChar_RightUpLeg
+      position: {x: 0.000000023841856, y: -0.31202963, z: 0.0000037955222}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightFoot
+      parentName: goodchar:BlueChar_RightLeg
+      position: {x: -0.000000009536743, y: -0.26509783, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightToeBase
+      parentName: goodchar:BlueChar_RightFoot
+      position: {x: 0.000009384155, y: -0.014477405, z: 0.11199852}
+      rotation: {x: 0, y: -0.00004189127, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_Spine
+      parentName: goodchar:BlueChar_Hips
+      position: {x: 3.8762235e-33, y: 0.1572383, z: 3.4913917e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_Spine1
+      parentName: goodchar:BlueChar_Spine
+      position: {x: 1.3432353e-32, y: 0.13622025, z: 6.049394e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_Spine2
+      parentName: goodchar:BlueChar_Spine1
+      position: {x: 3.022278e-32, y: 0.13622017, z: 9.074086e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftShoulder
+      parentName: goodchar:BlueChar_Spine2
+      position: {x: -0.042795155, y: 0.14995377, z: 1.7119546e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftArm
+      parentName: goodchar:BlueChar_LeftShoulder
+      position: {x: -0.052023366, y: 0.0000011444091, z: 4.6207037e-17}
+      rotation: {x: 3.67151e-12, y: -0.0000006258488, z: 0.000005866449, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftForeArm
+      parentName: goodchar:BlueChar_LeftArm
+      position: {x: -0.19125237, y: 0.000002854296, z: 0.00000023939015}
+      rotation: {x: 1.4046925e-10, y: 0.0000005484854, z: -0.00025610393, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftHand
+      parentName: goodchar:BlueChar_LeftForeArm
+      position: {x: -0.19813462, y: -0.00010717228, z: 0.000000030657326}
+      rotation: {x: 0, y: 0, z: 0.005004885, w: 0.9999875}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftHandThumb1
+      parentName: goodchar:BlueChar_LeftHand
+      position: {x: -0.037660528, y: -0.00654548, z: 0.037023205}
+      rotation: {x: 0, y: 0, z: -0.06335302, w: 0.9979912}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftHandThumb2
+      parentName: goodchar:BlueChar_LeftHandThumb1
+      position: {x: -0.021030705, y: -0.007144727, z: 0.006116203}
+      rotation: {x: 0, y: 0, z: 0.5533728, w: 0.83293366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftHandRing1
+      parentName: goodchar:BlueChar_LeftHand
+      position: {x: -0.07685509, y: 0.0040156185, z: -0.006857136}
+      rotation: {x: 0, y: 0, z: -0.042362187, w: 0.9991023}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_LeftHandRing2
+      parentName: goodchar:BlueChar_LeftHandRing1
+      position: {x: -0.039119583, y: -0.00294894, z: 0.0000000072621273}
+      rotation: {x: 0, y: 0, z: 0.2013952, w: 0.97951007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightShoulder
+      parentName: goodchar:BlueChar_Spine2
+      position: {x: 0.042795148, y: 0.14995377, z: 9.517598e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightArm
+      parentName: goodchar:BlueChar_RightShoulder
+      position: {x: 0.05202349, y: 0.0000037384032, z: -4.6202835e-17}
+      rotation: {x: 0, y: 0, z: -0.000020231517, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightForeArm
+      parentName: goodchar:BlueChar_RightArm
+      position: {x: 0.19125327, y: 0.000009569742, z: -1.6986605e-16}
+      rotation: {x: 0, y: 0, z: 0.0008092606, w: 0.9999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightHand
+      parentName: goodchar:BlueChar_RightForeArm
+      position: {x: 0.19813322, y: -0.00033784306, z: -1.7600094e-16}
+      rotation: {x: 0, y: 0, z: -0.015779927, w: 0.9998755}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightHandThumb1
+      parentName: goodchar:BlueChar_RightHand
+      position: {x: 0.0377834, y: -0.005773206, z: 0.03702649}
+      rotation: {x: 0, y: 0, z: 0.19855896, w: 0.98008895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightHandThumb2
+      parentName: goodchar:BlueChar_RightHandThumb1
+      position: {x: 0.018578285, y: -0.012172173, z: 0.0061181234}
+      rotation: {x: 0, y: 0, z: 0.9615618, w: 0.2745887}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightHandRing1
+      parentName: goodchar:BlueChar_RightHand
+      position: {x: 0.07675739, y: 0.0055881226, z: -0.0068503856}
+      rotation: {x: 0, y: 0, z: 0.13321178, w: 0.9910876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_RightHandRing2
+      parentName: goodchar:BlueChar_RightHandRing1
+      position: {x: 0.038108613, y: -0.009214199, z: -0.0013681083}
+      rotation: {x: 0, y: 0, z: -0.5966953, w: 0.8024679}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_Neck
+      parentName: goodchar:BlueChar_Spine2
+      position: {x: 5.3729384e-32, y: 0.13622017, z: 1.2098782e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:BlueChar_Head
+      parentName: goodchar:BlueChar_Neck
+      position: {x: 1.0656232e-31, y: 0.17290725, z: 1.9196564e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:charMesh
+      parentName: goodchar(Clone)
+      position: {x: -0, y: 0.8485304, z: -0.0028566092}
+      rotation: {x: 6.123234e-17, y: 1, z: -6.123234e-17, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: goodchar:pSphere1
+      parentName: goodchar:charMesh
+      position: {x: -0.05432863, y: 0.69877964, z: -0.1092059}
+      rotation: {x: -4.3297806e-17, y: 0.7071068, z: -0.7071068, w: 4.3297806e-17}
+      scale: {x: 3.3521447, y: 3.3521447, z: 3.3521447}
+    - name: goodchar:pSphere2
+      parentName: goodchar:charMesh
+      position: {x: 0.05433, y: 0.69877964, z: -0.1092059}
+      rotation: {x: -4.3297806e-17, y: 0.7071068, z: -0.7071068, w: 4.3297806e-17}
+      scale: {x: 3.3521447, y: 3.3521447, z: 3.3521447}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: BlueChar_RootBone
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: de7936238c3aeef4a96968134a9e7309,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
