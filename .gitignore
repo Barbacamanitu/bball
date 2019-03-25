@@ -6,7 +6,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Mm]aya/
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -54,6 +54,7 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
