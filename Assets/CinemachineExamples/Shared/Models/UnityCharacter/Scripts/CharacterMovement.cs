@@ -32,12 +32,13 @@ public class CharacterMovement : MonoBehaviour
 	// Update is called once per frame
 	void FixedUpdate ()
 	{
-        
-	    input.x = Input.GetAxis("Horizontal");
-	    input.y = Input.GetAxis("Vertical");
 
-		// set speed to both vertical and horizontal inputs
-        if (keepDirection) speed = Mathf.Abs(input.x) + input.y;
+            input.x = Input.GetAxis("Horizontal") + Input.GetAxis("LStickX");
+            input.y = Input.GetAxis("Vertical") + Input.GetAxis("LStickY");
+
+
+            // set speed to both vertical and horizontal inputs
+            if (keepDirection) speed = Mathf.Abs(input.x) + input.y;
         else speed = Mathf.Abs(input.x) + Mathf.Abs(input.y);
 
         speed = Mathf.Clamp(speed, 0f, 1f);
